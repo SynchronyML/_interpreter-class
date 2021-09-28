@@ -231,3 +231,16 @@ templates/base.html
 - 有疑问请在[杜赛的个人网站](http://www.dusaiphoto.com)留言，我会尽快回复。
 - 或Email私信我：dusaiphoto@foxmail.com
 - 项目完整代码：[Django_blog_tutorial](https://github.com/stacklens/django_blog_tutorial)
+
+# 使用说明
+
+## 插入图片
+
+最简单的方式是![](http://upload-images.jianshu.io/upload_images/2182065-91ff11ffeb37cff2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+但是，如果调整对齐方式，大小等，就可以使用css语法
+
+<div style="align: center">
+<img src="http://upload-images.jianshu.io/upload_images/2182065-91ff11ffeb37cff2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"/>
+</div>
+
